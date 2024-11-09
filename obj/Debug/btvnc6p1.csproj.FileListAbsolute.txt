@@ -1,0 +1,10 @@
+D:\C#\btvnc6p1\bin\Debug\btvnc6p1.exe.config
+D:\C#\btvnc6p1\bin\Debug\btvnc6p1.exe
+D:\C#\btvnc6p1\bin\Debug\btvnc6p1.pdb
+D:\C#\btvnc6p1\obj\Debug\btvnc6p1.csproj.AssemblyReference.cache
+D:\C#\btvnc6p1\obj\Debug\btvnc6p1.Form1.resources
+D:\C#\btvnc6p1\obj\Debug\btvnc6p1.Properties.Resources.resources
+D:\C#\btvnc6p1\obj\Debug\btvnc6p1.csproj.GenerateResource.cache
+D:\C#\btvnc6p1\obj\Debug\btvnc6p1.csproj.CoreCompileInputs.cache
+D:\C#\btvnc6p1\obj\Debug\btvnc6p1.exe
+D:\C#\btvnc6p1\obj\Debug\btvnc6p1.pdb
